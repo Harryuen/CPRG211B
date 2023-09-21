@@ -1,0 +1,14 @@
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.AssemblyInfoInputs.cache
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.AssemblyInfo.cs
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.csproj.CoreCompileInputs.cache
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\bin\Debug\net6.0\Personlabykf.exe
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\bin\Debug\net6.0\Personlabykf.deps.json
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\bin\Debug\net6.0\Personlabykf.runtimeconfig.json
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\bin\Debug\net6.0\Personlabykf.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\bin\Debug\net6.0\Personlabykf.pdb
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\refint\Personlabykf.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.pdb
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\Personlabykf.genruntimeconfig.cache
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\Personlabykf\Personlabykf\obj\Debug\net6.0\ref\Personlabykf.dll
