@@ -1,0 +1,15 @@
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\bin\Debug\net6.0\lab2Inheritance.exe
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\bin\Debug\net6.0\lab2Inheritance.deps.json
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\bin\Debug\net6.0\lab2Inheritance.runtimeconfig.json
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\bin\Debug\net6.0\lab2Inheritance.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\bin\Debug\net6.0\lab2Inheritance.pdb
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.AssemblyInfoInputs.cache
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.AssemblyInfo.cs
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\refint\lab2Inheritance.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.pdb
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\lab2Inheritance.genruntimeconfig.cache
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\obj\Debug\net6.0\ref\lab2Inheritance.dll
+C:\Users\ykf49\Desktop\SAITstudy\Sem2\OOP2\Lab\lab2Inheritance\lab2Inheritance\bin\Debug\net6.0\employees.txt
